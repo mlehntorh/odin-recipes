@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+    text-transform: uppercase;
+}
+
+ul {
+    text-align: center;
+    margin-top: 50px;
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+    margin: 0 130px;
+    padding: 20px;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+}
